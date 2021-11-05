@@ -1,1 +1,1 @@
-# Kaggle-Course-Notes
+# Kaggle Course Notes
